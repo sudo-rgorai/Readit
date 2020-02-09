@@ -1,0 +1,64 @@
+a
+{
+    color: #dddddd;
+}
+a:hover
+{
+    color: white;
+}
+body
+{
+    margin: 0;
+}
+
+
+
+.bottom-container
+{
+    text-align: center;
+    color: cornsilk;
+    background-color: blueviolet;
+    margin: 35px 0px 0px 0px;
+    padding: 3px 0;
+  }
+  .fa
+  {
+    padding:0.5rem 3rem 0.5rem;
+  }
+
+.head
+{
+    font-size: 4rem;
+    position: relative;
+    text-align: center;
+    margin-top: 0;
+    padding-top: 60px;
+    font-family: 'Montserrat', sans-serif;
+    color: cornsilk;
+}
+.logo
+{
+    padding-left: 20 px;
+    position:absolute;
+}
+.top
+{
+    background-color: blueviolet;
+    height: 200px;
+}
+
+
+
+
+
+
+#search-container
+{
+    margin-top: 50px;
+}
+#visit
+{
+    background-color: blueviolet;
+    border-color: blueviolet;
+    font-family: 'Montserrat', sans-serif;
+}
